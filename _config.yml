@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Rushil Gupta]
+description: [Hi, I’m Rushil Gupta, a technology enthusiast with a keen interest in robotics, artificial intelligence, and automation. I enjoy exploring how emerging technologies can be applied to solve real-world problems and create smarter solutions. With a strong curiosity and eagerness to learn, I constantly engage with new advancements in tech and strive to expand my knowledge. My goal is to contribute to the field of intelligent systems and innovation, while continuously growing my skills and perspective.]
